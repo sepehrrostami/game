@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-first-1.0";
+const cacheName = "Sepehr-1-3";
 const contentToCache = [
     "Build/web.loader.js",
     "Build/web.framework.js",
